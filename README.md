@@ -1,6 +1,6 @@
 #  Code Challenge: Articles - without AR
 
-## Emmanuel Mumo
+## David Rimui
 
 
 ### Table of Content:
@@ -93,10 +93,8 @@ D. Authors Info
 
 ### Licence
 
-[MIT License](https://github.com/ewambua/Code-Challenge-Articles-without-AR/blob/main/LICENSE)
+[MIT License](https://github.com/DavidRimui/Phase-3-Challenge/blob/main/LICENSE)
 
 
 ### Authors Info
-emmanuelwambua931@gmail.com
-
-emmanuel.wambua@student.moringaschool.com
+david.rimui@student.moringaschool.com
