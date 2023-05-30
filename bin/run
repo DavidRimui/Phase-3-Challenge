@@ -1,0 +1,9 @@
+
+require_relative '../config/enviroment'
+
+emmanuel = Author.new("Emmanuel Mumo")
+new_magazine= Magazine.new("vouge", "Fashion")
+emmanuel.add_article(new_magazine, "The Latest Trends in Fashion")
+magazine = Magazine.find_by_name("vouge")
+
+p magazine
